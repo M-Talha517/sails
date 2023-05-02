@@ -18,6 +18,7 @@ require('ts-node/register');
 
 To get you started, here's an example of a traditional Sails [controller](https://sailsjs.com/documentation/concepts/actions-and-controllers) written in Typescript, courtesy of [@oshatrk](https://github.com/oshatrk):
 
+{{ NOTE: Please update this document for an up to date use case of TypeScript. Something that does not involve type:any and also provide an example of a actions2 using typescript  }} 
 ```typescript
 // api/controllers/SomeController.ts
 declare var sails: any;
